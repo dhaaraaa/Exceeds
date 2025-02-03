@@ -87,7 +87,9 @@ const Arrivals = () => {
     },
     {
       wimage: Ar8,
-      text: ['"Men\'s Collection"', 'Explore Collection']
+      text: ['"Men\'s Collection"', 'Explore Collection'],
+      path: '/mencollection'
+
     }
   ]
 
